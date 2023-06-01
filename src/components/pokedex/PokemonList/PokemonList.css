@@ -1,0 +1,23 @@
+.data_list{
+  padding: 0px;
+  margin: 0px;
+  
+}
+
+section .data_list .info_list{
+  color: #DDE6ED;
+  text-decoration: unset;
+}
+section .data_list li{
+  list-style: none;
+}
+  section .data_list{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+} 
+.caja{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}

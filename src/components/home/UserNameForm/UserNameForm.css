@@ -1,0 +1,13 @@
+
+form .loading{
+  padding: 7px;
+}
+form .init{
+  padding: 7px;
+  background-color: #9DB2BF;
+  color: #27374D;
+}
+form{
+  filter: drop-shadow(0 0 13px black);
+  padding: 15px 0px;
+}

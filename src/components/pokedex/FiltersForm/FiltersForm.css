@@ -1,0 +1,26 @@
+.container_search{
+  display: flex;
+  justify-content: center;
+  margin: 30px 0px;
+  flex-wrap: wrap;
+  border: none;
+  filter: drop-shadow(0 0 10px black);
+}
+.container_search .search input{
+  padding: 10px 10px 10px 5px;
+}
+form h2{
+  color: #DDE6ED;
+  text-align: center;
+  font-size: 20px;
+}
+.container_search select{
+  padding: 10px;
+}
+.container_search select .munu_type{
+  margin: 20px;
+  padding: 20px;
+}
+.container_search select {
+  margin: 0px 0px 0px 20px;
+} 

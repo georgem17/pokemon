@@ -1,0 +1,26 @@
+section .banner img{
+  width: 50%;
+  filter: drop-shadow(0 0 13px black);
+  margin: 20px 0px 0px 0px ;
+}
+section .banner{
+  text-align: center;
+}
+section h1{
+  color: #DDE6ED;
+  text-align: center;
+  margin: 50px 0px 20px 0px;
+  font-size: 40px;
+}
+section .home_descrip{
+  text-align: center;
+  font-size: 20px;
+  color: #9DB2BF;
+}
+section .home_form {
+  text-align: center;
+}
+section{
+  font-family: Arial, Helvetica, sans-serif;
+}
+

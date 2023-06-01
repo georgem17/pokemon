@@ -1,0 +1,70 @@
+
+article .card-img img{
+  width: 150px;
+}
+article .card-img{
+    text-align: center;
+    padding: 20px;
+}
+article{
+  padding: 0px;
+  margin: 0px;
+  color: #DDE6ED;
+}
+
+.pokemon-card{
+  width: 100%;
+  background-color: #526D82;
+  border-radius: 10px;
+  margin: 30px;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+article .card-title{
+  justify-content: center;
+  text-align: center;
+  color: #27374D;
+  margin: 10px 0px 5px 0px;
+}
+article .card_data h3{
+  text-align: center;
+  margin: 5px 0px 5px 0px;
+}
+article .card_data .data-list{
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+  padding: 0px;
+}
+article .card_data .data-list .data-item{
+  padding: 0px 5px;
+}
+
+article .card-power h3{
+  text-align: center;
+}
+article .card-power .power-list{
+  padding: 0px;
+}
+article .card-power .power-list .power-item article{
+  display: flex;
+  align-items: center;
+  padding: 5px 20px ;
+}
+article .card-power .power-list .power-item article p{
+  padding: 0px 0px 0px 20px;
+  margin: 0px;
+  
+}
+article .card-power .power-list .power-item article h4{
+  margin: 0px;
+  color: #27374D;
+  
+}
+
+.pokemon-card .img_carga{
+  width: 200px;
+  padding: 20px;
+  filter: drop-shadow(0 0 10px black);
+}
